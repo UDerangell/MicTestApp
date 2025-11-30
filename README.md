@@ -8,10 +8,10 @@ Microphone test app for sight singing
 # To run:
 - Always run the application from the command line.  The app will display console messages as it runs.
 - java -jar UdmtMicTestApp.jar
-- Allow access to microphone
-- The checkbox is used if you want to save the audio and FFT data
+- Allow access to microphone.
+- The checkbox is used if you want to save the audio and FFT data.
 - Start singing a syllable, then press RECORD.  Hold your note for a few seconds.
-- If you chose to sace the data, you will see files: dat1.csv and fft1.csv
+- If you chose to save the data, you will see files: dat1.csv and fft1.csv.
 - You can listen to what was recorded using the PLAY RECORDED VOICE button.
 - The number appended to the filenames increments with each recording that is saved.
 - If you exit the app and want to keep the recording data, move the files out of the application directory because saves will start with a suffix of 1.
