@@ -1,11 +1,11 @@
 # MicTestApp
 Microphone test app for sight singing
 
-#To build:
+# To build:
 - javac UdmtMicTestApp.java
 - ./makejar.bat
 
-#To run:
+# To run:
 - Always run the application from the command line.  The app will display console messages as it runs.
 - java -jar UdmtMicTestApp.jar
 - Allow access to microphone
@@ -16,7 +16,7 @@ Microphone test app for sight singing
 - The number appended to the filenames increments with each recording that is saved.
 - If you exit the app and want to keep the recording data, move the files out of the application directory because saves will start with a suffix of 1.
 
-#Sample console output:
+# Sample console output:
 ```
 init method called for Applet: UdmtMicTest ver: 0.12
 ======================================================================================
