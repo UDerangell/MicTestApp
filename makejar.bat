@@ -1,0 +1,1 @@
+jar -cvmf manifest.txt UdmtMicTestApp.jar *.class
